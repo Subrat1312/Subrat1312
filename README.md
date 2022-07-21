@@ -15,7 +15,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/Subrat1312/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Subrat1312/StrapDown.js/watchers/)
 
 ![Profile views](https://gpvc.arturio.dev/Subrat1312)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Subrat1312&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/Subrat1312.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Subrat1312?tab=followers)
 
 [![GitHub contributors](https://badgen.net/github/contributors/Subrat1312/Strapdown.js)](https://GitHub.com/Subrat1312/Strapdown.js/graphs/contributors/)
