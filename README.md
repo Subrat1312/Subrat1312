@@ -33,9 +33,4 @@
 
 [![Subrat1312's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Subrat1312&theme=blue-green)](https://github.com/Subrat1312/github-readme-streak-stats)
 
-[![GitLab last commit](https://badgen.net/gitlab/last-commit/Subrat1312/HomelabOS/)](https://gitlab.com/Subrat1312/HomelabOS/-/commits)
-
-[![GitLab commit count](https://badgen.net/gitlab/commits/Subrat1312/HomelabOS/)](https://gitlab.com/Subrat1312/HomelabOS/-/commits)
-
-
 
